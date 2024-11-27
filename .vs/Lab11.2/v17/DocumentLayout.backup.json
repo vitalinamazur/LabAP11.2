@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\source\\repos\\Lab11.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76AB9597-CBC2-4C48-BBF6-697273813484}|UnitTest11.2\\UnitTest11.2.vcxproj|C:\\Users\\vital\\source\\repos\\Lab11.2\\UnitTest11.2\\UnitTest11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76AB9597-CBC2-4C48-BBF6-697273813484}|UnitTest11.2\\UnitTest11.2.vcxproj|solutionrelative:UnitTest11.2\\UnitTest11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED561F82-9F0C-4F17-9197-3D86DE4D0F04}|Lab11.2\\Lab11.2.vcxproj|C:\\Users\\vital\\source\\repos\\Lab11.2\\Lab11.2\\Lab11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED561F82-9F0C-4F17-9197-3D86DE4D0F04}|Lab11.2\\Lab11.2.vcxproj|solutionrelative:Lab11.2\\Lab11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest11.2.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\Lab11.2\\UnitTest11.2\\UnitTest11.2.cpp",
+              "RelativeDocumentMoniker": "UnitTest11.2\\UnitTest11.2.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\Lab11.2\\UnitTest11.2\\UnitTest11.2.cpp",
+              "RelativeToolTip": "UnitTest11.2\\UnitTest11.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T08:30:53.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab11.2.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\Lab11.2\\Lab11.2\\Lab11.2.cpp",
+              "RelativeDocumentMoniker": "Lab11.2\\Lab11.2.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\Lab11.2\\Lab11.2\\Lab11.2.cpp",
+              "RelativeToolTip": "Lab11.2\\Lab11.2.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T14:40:08.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
